@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Body mass index calculator</string>
+    <string name="title_bmi_calculator">Body Mass Index Calculator</string>
+    <string name="height_label">Height (cm)</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="bmi_result">Body mass index is %s</string>
+    <string name="enter_valid_data">Please, enter valid height and weight</string>
+
+</resources>
